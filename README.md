@@ -1,1 +1,1 @@
-"# ELG5255_Project" 
+Project for ELG5255 Applied Machine Learning
